@@ -39,4 +39,4 @@ class MakeFaceDataset():
                 
                     
 if __name__ == '__main__':
-    MakeFaceDataset('./test', './data')
+    MakeFaceDataset('./vmgs', './data')

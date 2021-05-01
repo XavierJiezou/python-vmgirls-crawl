@@ -8,8 +8,8 @@ from fake_useragent import UserAgent
 
 
 class VmgirlsDownloader():
-    def __init__(self):
-        self.root = 'vmgs'
+    def __init__(self, root):
+        self.root = root
         os.makedirs(self.root, exist_ok=True)
         self.site = 'https://www.vmgirls.com/'
         self.sitemap = 'https://www.vmgirls.com/sitemap.html' # 从站点地图爬取文章列表
@@ -67,4 +67,4 @@ class VmgirlsDownloader():
 
 
 if __name__ == '__main__':
-    VmgirlsDownloader()
+    VmgirlsDownloader('./vmgs')
