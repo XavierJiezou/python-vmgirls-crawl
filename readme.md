@@ -39,11 +39,15 @@ python face.py
 | Sitemap | [https://www.vmgirls.com/sitemap.html](https://www.vmgirls.com/sitemap.html) |
 | Date of crawling | 2021年4月28日 |
 | Total number of images | 17601 |
+| Total size of images | 1,742,902,332 Byte(About 1.62 GB) |
 | Total number of faces | 13960 |
 | Types of images | png, jpg, jpeg |
 | Link of repository | [https://github.com/XavierJiezou/python-vmgirls-crawl/](https://github.com/XavierJiezou/python-vmgirls-crawl/) |
 # Cite
 > [https://github.com/psf/requests](https://github.com/psf/requests)
+
 > [https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/)
+
 > [https://github.com/hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent)
+
 > [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)
