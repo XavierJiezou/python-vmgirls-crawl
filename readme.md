@@ -1,5 +1,5 @@
 # Introduction
-Crawl images based on `Python` from the website [vmgrils.com](https://www.vmgirls.com/).
+Crawl images based on `Python` from the website [vmgrils.com](https://www.vmgirls.com/). Then, You can detect and extract faces from these images crawled to make a dataset for deep learning training, if you want.
 # Install
 The following modules must be installed for images crawling.
 ```bash
