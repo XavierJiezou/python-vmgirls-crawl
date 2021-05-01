@@ -11,7 +11,6 @@ class MakeFaceDataset():
         self.srcdir = srcdir
         self.dstdir = dstdir
         os.makedirs(dstdir, exist_ok=True)
-        self.main()
 
     def crop(self, subdir):
         for j in tqdm(os.listdir(f'{self.srcdir}/{subdir}'), desc=subdir):
@@ -39,4 +38,4 @@ class MakeFaceDataset():
                 
                     
 if __name__ == '__main__':
-    MakeFaceDataset('./vmgs', './data')
+    MakeFaceDataset('./vmgs', './vmgs-face').main()
