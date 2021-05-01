@@ -1,10 +1,17 @@
 # Introduction
 Crawl images based on `Python` from the website [vmgrils.com](https://www.vmgirls.com/).
 # Install
+The following modules must be installed for images crawling.
 ```bash
 pip install requests
 pip install BeautifulSoup4
 pip install fake_useragent
+pip install tqdm
+```
+The following modules must be installed for faces detection.
+```bash
+pip install opencv-python
+pip install dlib
 pip install tqdm
 ```
 # Usage
@@ -35,7 +42,7 @@ python face.py
 | Total number of faces | 13960 |
 | Types of images | png, jpg, jpeg |
 | Link of repository | [https://github.com/XavierJiezou/python-vmgirls-crawl/](https://github.com/XavierJiezou/python-vmgirls-crawl/) |
-# Cites
+# Cite
 > [https://github.com/psf/requests](https://github.com/psf/requests)
 > [https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/)
 > [https://github.com/hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent)
