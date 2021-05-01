@@ -31,7 +31,7 @@ python face.py
 ## Single-image-preview
 ![single-image-preview.jpg](single-image-preview.jpg)
 ## Multi-image-preview
-![Multi-image-preview.jpg](Multi-image-preview.jpg)
+![Multi-image-preview.jpg](multi-image-preview.jpg)
 ## Data of craweling
 | Item |Details|
 |:--:|:--:|
