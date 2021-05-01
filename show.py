@@ -2,7 +2,7 @@ import os
 import matplotlib.pyplot as plt
 import random
 from PIL import Image
-from collections import Counter
+
 
 root = './vmgs'
 imgs = []
