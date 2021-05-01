@@ -28,10 +28,10 @@ Detect and extract faces from the images crawled to make a dataset for deep lear
 python face.py
 ```
 # Result
-## Single-image-preview
+## Single-Image-Preview
 ![single-image-preview.jpg](single-image-preview.jpg)
-## Multi-images-preview
-![Multi-images-preview.jpg](multi-images-preview.jpg)
+## Multi-Images-Preview
+![multi-images-preview.jpg](multi-images-preview.jpg)
 ## Data of craweling
 | Item |Details|
 |:--:|:--:|
