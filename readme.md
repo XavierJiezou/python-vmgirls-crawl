@@ -32,7 +32,7 @@ python face.py
 ![single-image-preview.jpg](single-image-preview.jpg)
 ## Multi-Images-Preview
 ![multi-images-preview.jpg](multi-images-preview.jpg)
-## Data of craweling
+## Data of Craweling
 | Item |Details|
 |:--:|:--:|
 | Website | [https://www.vmgirls.com/](https://www.vmgirls.com/) |
