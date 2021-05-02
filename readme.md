@@ -27,11 +27,21 @@ Detect and extract faces from the images crawled to make a dataset for deep lear
 ```bash
 python face.py
 ```
+Filter face images whose width and height are both greater than 128, and resize them to 128x128.
+```bash
+pyhton face-processing.py
+```
+Show face images after filter and resize.
+```bash
+pyhton show-processing.py
+```
 # Result
 ## Single-Image-Preview
-![single-image-preview.jpg](single-image-preview.jpg)
+![single-image-preview.jpg](result/single-image-preview.jpg)
 ## Multi-Images-Preview
-![multi-images-preview.jpg](multi-images-preview.jpg)
+![multi-images-preview.jpg](result/multi-images-preview.jpg)
+## Face-Images-After-Filter-And-Resize.
+![face-processing.jpg](result/face-processing.jpg)
 ## Data of Craweling
 | Item |Details|
 |:--:|:--:|
@@ -43,6 +53,10 @@ python face.py
 | Total number of faces | 13960 |
 | Types of images | png, jpg, jpeg |
 | Link of repository | [https://github.com/XavierJiezou/python-vmgirls-crawl/](https://github.com/XavierJiezou/python-vmgirls-crawl/) |
+# Download
+- 17601 images from [vmgrils.com](https://www.vmgirls.com/): [download](https://j8rd-my.sharepoint.com/:u:/g/personal/25_t_skings_club/EckREf4k2_VMikBPOPCJqmUBZKz9V3fD_IK_rMbVLtcaLg?e=VULXqS)
+- 13960 face images after face detection: [download](https://j8rd-my.sharepoint.com/:u:/g/personal/25_t_skings_club/ER0i4UMyAeJFuhx_q_kL86cBU9TJ9THh0XO2xZXuGVTIHw?e=kAMiIW)
+- 8768 face images after after filter and resize: [download](https://j8rd-my.sharepoint.com/:u:/g/personal/25_t_skings_club/EUir3sPXP99EnKu40rh1yO8BNhc9FF_6aoEwGIrILK5JUw?e=rZWhB7)
 # Cite
 > [https://github.com/psf/requests](https://github.com/psf/requests)
 

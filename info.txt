@@ -1,8 +1,0 @@
-爬取网站: https://www.vmgirls.com/(唯美女生)
-站点地图: https://www.vmgirls.com/sitemap.html
-爬取日期: 2021年4月28日
-图片总数: 17601张
-图片大小: 1,742,902,332字节(约1.62 GB)
-图片类型: png、jpg和jpeg
-代码仓库: https://github.com/XavierJiezou/python-vmgirls-crawl/
-检测人脸：13960张
