@@ -51,7 +51,7 @@ pyhton show-processing.py
 | Total number of images | 17601 |
 | Total size of images | 1,742,902,332 Byte(About 1.62 GB) |
 | Total number of faces | 13960 |
-| Types of images | png, jpg, jpeg |
+| Total number of faces processing | 8768 |
 | Link of repository | [https://github.com/XavierJiezou/python-vmgirls-crawl/](https://github.com/XavierJiezou/python-vmgirls-crawl/) |
 # Download
 - 17601 images from [vmgrils.com](https://www.vmgirls.com/): [download](https://j8rd-my.sharepoint.com/:u:/g/personal/25_t_skings_club/EckREf4k2_VMikBPOPCJqmUBZKz9V3fD_IK_rMbVLtcaLg?e=VULXqS)
