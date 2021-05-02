@@ -42,7 +42,7 @@ pyhton show-processing.py
 ![multi-images-preview.jpg](result/multi-images-preview.jpg)
 ## Face-Images-After-Filter-And-Resize.
 ![face-processing.jpg](result/face-processing.jpg)
-## Data of Craweling
+## Data of Crawling
 | Item |Details|
 |:--:|:--:|
 | Website | [https://www.vmgirls.com/](https://www.vmgirls.com/) |
